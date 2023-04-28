@@ -40,6 +40,7 @@
 - Lable Encoding for categorical data 
 - HYPERPARAMETER TUNING
 - Training different models.
+- Feature Importances
 - Evaluating metrics of all the models.
 
 ## Algorithms used
