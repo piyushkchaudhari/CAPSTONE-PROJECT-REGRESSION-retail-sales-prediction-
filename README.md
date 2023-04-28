@@ -53,3 +53,5 @@
 -  Random forest model gives better results compared to other models
 - random forest model gives 99% tranining accuracy and 98% testing accureacy
 - random forest model gives less random mean squer error compare to other models.
+![image](https://user-images.githubusercontent.com/123857050/235145425-3e81f819-a49e-4a63-b927-b52a6e6db3b4.png)
+
