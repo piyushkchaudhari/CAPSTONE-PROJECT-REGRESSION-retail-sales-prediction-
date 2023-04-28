@@ -49,10 +49,7 @@
 - 4)Elasticnet regression
 - 5)Random Forest regression
 
-## Machine Learning Model	 Training Score	    Testing Score	        Root Mean Squre Error
-			
-linear	                  0.863929	           0.864669	            1414.123407
-Lasso	                    0.863929	           0.864669	            1414.123417
-Ridge	                    0.863929	           0.864669	            1414.123555
-Elasticnet	              0.863929	           0.864669	            1414.123575
-Random Forest             0.997121	           0.982634	            506.573484
+## Conclusion
+-  Random forest model gives better results compared to other models
+- random forest model gives 99% tranining accuracy and 98% testing accureacy
+- random forest model gives less random mean squer error compare to other models.
